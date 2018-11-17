@@ -1,0 +1,9 @@
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.deps.json
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.dll
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\bin\Debug\netstandard2.0\SchoolLibrary.pdb
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csproj.CoreCompileInputs.cache
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfoInputs.cache
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.AssemblyInfo.cs
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.dll
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.pdb
+c:\users\chrono\source\repos\SchoolApp\SchoolLibrary\obj\Debug\netstandard2.0\SchoolLibrary.csprojAssemblyReference.cache
